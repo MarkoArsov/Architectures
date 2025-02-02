@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\infrastructure\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\infrastructure\\repositories\\propertylistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\propertylistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\infrastructure\\repositories\\interfaces\\ipropertylistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\interfaces\\ipropertylistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\application\\factories\\propertylistingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|solutionrelative:application\\factories\\propertylistingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\application\\factories\\interfaces\\ipropertylistingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|solutionrelative:application\\factories\\interfaces\\ipropertylistingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\api\\controllers\\propertylistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|solutionrelative:api\\controllers\\propertylistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\api\\contracts\\responses\\propertylistingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|solutionrelative:api\\contracts\\responses\\propertylistingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\application\\services\\propertylistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|solutionrelative:application\\services\\propertylistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE806ED8-A061-4919-87B7-9A1B38DDEE3F}|Common\\Common.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE806ED8-A061-4919-87B7-9A1B38DDEE3F}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\infrastructure\\unitofwork\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\api\\contracts\\requests\\propertylistingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|solutionrelative:api\\contracts\\requests\\propertylistingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73128A25-0878-46C2-88C5-B9D5E7190468}|Domain\\Domain.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\domain\\entities\\propertylisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73128A25-0878-46C2-88C5-B9D5E7190468}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\propertylisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\infrastructure\\unitofwork\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E8B78F-919C-4CE1-B568-8C8024AD3AB2}|Solution Items{63E8B78F-919C-4CE1-B568-8C8024AD3AB2}|C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\NuGet.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63E8B78F-919C-4CE1-B568-8C8024AD3AB2}|Solution Items{63E8B78F-919C-4CE1-B568-8C8024AD3AB2}|solutionrelative:NuGet.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73128A25-0878-46C2-88C5-B9D5E7190468}|Domain\\Domain.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73128A25-0878-46C2-88C5-B9D5E7190468}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{298FF7EA-FEF3-4772-854A-BA54C3362D5A}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D8CEC67-4900-48C2-90C9-126306AC4319}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|c:\\users\\arsov\\source\\repos\\diplomskaproekt\\cleanlayeredarchitecture\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CCE815F-C5A0-42FB-99F6-631C5E021C8F}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 485,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:15:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:07:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPropertyListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Repositories\\Interfaces\\IPropertyListingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Interfaces\\IPropertyListingRepository.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Repositories\\Interfaces\\IPropertyListingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Interfaces\\IPropertyListingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:57:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Repositories\\PropertyListingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PropertyListingRepository.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Repositories\\PropertyListingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PropertyListingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:08:48.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:02:33.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyListingFactory.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Factories\\PropertyListingFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\PropertyListingFactory.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Factories\\PropertyListingFactory.cs",
+              "RelativeToolTip": "Application\\Factories\\PropertyListingFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:08:15.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPropertyListingFactory.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Factories\\Interfaces\\IPropertyListingFactory.cs",
+              "RelativeDocumentMoniker": "Application\\Factories\\Interfaces\\IPropertyListingFactory.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Factories\\Interfaces\\IPropertyListingFactory.cs",
+              "RelativeToolTip": "Application\\Factories\\Interfaces\\IPropertyListingFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:08:16.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropertyListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Controllers\\PropertyListingsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PropertyListingsController.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Controllers\\PropertyListingsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PropertyListingsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:11:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyListingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Contracts\\Responses\\PropertyListingResponse.cs",
+              "RelativeDocumentMoniker": "Api\\Contracts\\Responses\\PropertyListingResponse.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Contracts\\Responses\\PropertyListingResponse.cs",
+              "RelativeToolTip": "Api\\Contracts\\Responses\\PropertyListingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:49:49.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyListingService.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Services\\PropertyListingService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PropertyListingService.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Services\\PropertyListingService.cs",
+              "RelativeToolTip": "Application\\Services\\PropertyListingService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:10:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Common",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T17:58:24.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:19:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PropertyListingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Contracts\\Requests\\PropertyListingRequest.cs",
+              "RelativeDocumentMoniker": "Api\\Contracts\\Requests\\PropertyListingRequest.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Contracts\\Requests\\PropertyListingRequest.cs",
+              "RelativeToolTip": "Api\\Contracts\\Requests\\PropertyListingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:45:43.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:15:48.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyListing.cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Domain\\Entities\\PropertyListing.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PropertyListing.cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Domain\\Entities\\PropertyListing.cs",
+              "RelativeToolTip": "Domain\\Entities\\PropertyListing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:00:45.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork .cs",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\UnitOfWork\\UnitOfWork .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork\\UnitOfWork .cs",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\UnitOfWork\\UnitOfWork .cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork\\UnitOfWork .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:19:47.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NuGet.config",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\NuGet.config",
+              "RelativeDocumentMoniker": "NuGet.config",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\NuGet.config",
+              "RelativeToolTip": "NuGet.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-02T16:34:48.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T16:31:22.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T15:34:00.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T15:34:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\arsov\\source\\repos\\DiplomskaProekt\\CleanLayeredArchitecture\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T15:55:19.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
